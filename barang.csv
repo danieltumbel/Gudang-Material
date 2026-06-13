@@ -1,0 +1,11 @@
+Kode,Nama,Jumlah,Kategori,Harga,Lokasi
+SB001,Semen Gresik 50Kg,30,Material,55000.0,Rak A1
+SB002,Semen Rajawali 50Kg,15,Material,60000.0,Rak A2
+PK001,Paku Beton,10,Perkakas,15000.0,Rak B1
+PK002,Paku Payung,10,Perkakas,10000.0,Rak B2
+CT001,Cat Tembok 5Kg Putih,10,Cat,80000.0,Rak C1
+CT002,Cat Tembok 5Kg Hijau,4,Cat,85000.0,Rak C2
+CT003,Cat Tembok 5Kg Biru,10,Cat,90000.0,Rak C3
+LM001,Lem Kayu,3,Perekat,25000.0,Rak D1
+LM002,Lem Pipa,6,Perekat,20000.0,Rak D2
+
